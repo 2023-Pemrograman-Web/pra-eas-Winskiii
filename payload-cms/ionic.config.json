@@ -1,7 +1,0 @@
-{
-  "name": "payload-cms",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
